@@ -52,7 +52,7 @@
 
 ;; ARREGLANDO NUESTRO EJEMPLO ANTERIOR
 
-;; utilizare los mismos nombres anteriores, pero esta vez con prefijo "2"
+;; utilizare los mismos nombres anteriores, pero esta vez con sufijo "2"
 (declare my-odd2? my-even2?)
 
 ;; escribiremos exactamente las mismas funciones, pero en lugar de efectuar las llamadas
